@@ -55,3 +55,7 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frexxx-7&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
+> **🐍 Github Activity Snake**:
+
+|![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/f87fa3659c55415e949c3c1a55008ea88e929fd2/github-snake-dark.svg)|
+|---|
