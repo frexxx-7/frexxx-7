@@ -39,8 +39,19 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  Web:  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,firebase,gulp,webpack,vite,php" title="Web" alt="Web" />&nbsp;
+  Web:  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,firebase,gulp,webpack,vite,php,jquery,vscode" title="Web" alt="Web" />&nbsp;
   
-  Software:  <img src="https://skillicons.dev/icons?i=cs,github,mysql" title="Software" alt="Software" />&nbsp;
+  Software:  <img src="https://skillicons.dev/icons?i=cs,github,mysql,git,visualstudio" title="Software" alt="Software" />&nbsp;
   
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frexxx-7&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frexxx-7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frexxx-7&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
