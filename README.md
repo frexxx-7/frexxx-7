@@ -46,7 +46,7 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 </div>
 
 ---
-
+<div align="center">
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frexxx-7&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -59,3 +59,5 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 |![Animation](https://raw.githubusercontent.com/bylickilabs/bylickilabs/f87fa3659c55415e949c3c1a55008ea88e929fd2/github-snake-dark.svg)|
 |---|
+
+</div>
