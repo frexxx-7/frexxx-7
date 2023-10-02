@@ -39,7 +39,7 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  Web:  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,firebase,gulp,webpack,vite,php,jquery,vscode" title="Web" alt="Web" />&nbsp;
+  Web:  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,firebase,gulp,webpack,vite,php,laravel,jquery,vscode" title="Web" alt="Web" />&nbsp;
   
   Software:  <img src="https://skillicons.dev/icons?i=cs,github,mysql,git,visualstudio" title="Software" alt="Software" />&nbsp;
   
