@@ -26,7 +26,7 @@
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="600" height="300"/>
 </div>
 
-### 👨‍💻: About Me :
+### About Me :
 
 I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Belarus
 
@@ -48,7 +48,7 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 ---
 <div align="center">
   
-### :fire: My Stats :
+### :fire: My Stats. :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frexxx-7&theme=dark&background=000000)](https://git.io/streak-stats)
 
