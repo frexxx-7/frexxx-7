@@ -32,7 +32,7 @@ I am a Full Stack Developer  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 💻 I develop desktop applications in the C# programming language.
+- 💻 I develop desktop applications in the C# programming language).
 
 ---
 
